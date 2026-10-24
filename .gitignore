@@ -1,0 +1,7 @@
+
+*.class
+build/
+dist/javadoc/
+main_out/
+nbproject/private/
+out/

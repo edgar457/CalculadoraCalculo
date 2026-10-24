@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Archivo de construcción de NetBeans (Ant). Normalmente no hace falta editarlo. -->
+<project name="CalculadoraCalculo" default="default" basedir=".">
+    <description>Builds, tests, and runs the project CalculadoraCalculo.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
